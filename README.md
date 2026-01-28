@@ -2,7 +2,7 @@ The AI assurance framework aims to enable *third-party assurance professionals* 
 
 ![AI assurance framework overview flowchart](documents/flowchart.png)
 
-*A flowchart of our AI assurance process. The figure specifies the resources that should be used in each step of the assurance process.*
+*A flowchart of the AI assurance process. The figure specifies the resources that should be used in each step of the assurance process.*
 
 
 The AI assurance framework consists of four components:
@@ -27,12 +27,11 @@ The artifacts should include data used in building the AI system, source code us
 
 ### Step 3: Conduct an assessment of the (a) *process* and (b) *outcomes* of the AI system using the [maturity matrix](documents/maturity-matrix.pdf).
 
-The AI maturity matrix to assess each stage of the AI lifecycle through a set of *subcategories*. Each subcategory is assessed on both the *process* that was followed when designing, developing, and deploying the AI system, and the *outcomes* that resulted.
-Each subcategory's process or outcomes can be assessed as Lagging, Basic, Intermediate, or Industry-Leading. We design the subcategories with the intention of making them use-case agnostic and weighing them equally in the assurance process.
+The AI maturity matrix to assess each stage of the AI lifecycle through a set of *subcategories*. Each subcategory is assessed on both the *process* that was followed when designing, developing, and deploying the AI system, and the *outcomes* that resulted. Each subcategory's process or outcomes can be assessed as Lagging, Basic, Intermediate, or Industry-Leading. We design the subcategories with the intention of making them use-case agnostic and weighing them equally in the assurance process.
 
 ### Step 4: Review the assessments and produce the assurance report.
 
-Using the assessments from the maturity matrix, we grade the *entire* AI system with one of the following using language from financial auditing and assurance:
+Using the assessments from the maturity matrix, we grade the *entire* AI system with one of the following (using language from financial auditing and assurance):
 1. Inadequate access to perform the evaluation.
 2. Adequate access, lack of compliance with baseline industry expectations.
 3. Adequate access; adequate compliance with baseline expert expectations but lack of evidence of compliance with state-of-the-art and best practices.
