@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: "AI Assurance"
+title: "The AI Assurance Framework"
+baseurl: "/aiassurance"
+url: "https://dssg.github.io"
 markdown: GFM
