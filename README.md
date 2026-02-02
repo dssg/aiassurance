@@ -69,7 +69,7 @@ Here, we list all the components of the AI Assurance Framework (also linked with
 
 The AI Assurance Framework was designed by Rachel Kim, Blaine Kuehnert, Alice Lai, Kenneth Holstein, Hoda Heidari, and Rayid Ghani at Carnegie Mellon University. We also thank PwC and our interview participants for supporting and providing valuable feedback on this work.
 
-Here is a link to [our paper]() describing the design of our framework and our early work validating it.
+Here is a link to [our paper](https://arxiv.org/pdf/2601.22424) describing the design of our framework and our early work validating it.
 
 ***We would love to hear if you have tried using our framework or if you have any questions, comments, or feedback!***
 
